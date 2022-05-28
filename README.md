@@ -1,9 +1,10 @@
-<h1>Hi 👋, I'm Harjot</h1>
-<h3>a frontend designer and developer</h3>
+Hi 👋🏻, I'm Harjot.
+<br/>
+<br/>
+Frontend engineer with a knack for solving problems and building digital experiences using technologies like React.js. I also like other creative fields like design, photography, filmmaking and writing. 
 
-personal website: https://harjotbrar.dev
+[💻 Personal website](https://harjotbrar.dev)
 <br>
-reach me at harjotsinghbrar@protonmail.com
-
-
-
+[Behance](https://www.behance.net/brarharjot)
+<br>
+[LinkedIn](https://www.linkedin.com/in/harjotbrar22/)
